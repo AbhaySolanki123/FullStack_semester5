@@ -1,0 +1,49 @@
+h1{ text-align: center;
+    background-color:rgb(230, 202, 168);
+}
+h2{
+    font-size: larger;
+    background-color: antiquewhite;
+}
+
+table {
+            border-collapse: collapse;
+            width: 100%;
+            font-family: Arial, sans-serif;
+            font-size: 12px;
+    
+        }
+        th {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+            vertical-align: top;
+        }
+        thead {
+            background-color: #9c4343;
+        }
+        .header-row th {
+            font-weight: bold;
+            background-color: #db7f7f;
+        }
+        .rotated-text {
+            writing-mode: vertical-lr;
+            transform: rotate(180deg);
+        }
+        .main-header {
+            font-size: 14px;
+            font-weight: bold;
+            padding: 5px;
+            background-color: #a07171;
+        }
+        .sub-header {
+            font-weight: bold;
+        }
+        td{
+            background-color: beige;
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+            vertical-align: top;
+        }
+        
