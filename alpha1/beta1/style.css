@@ -1,0 +1,53 @@
+body{
+    background-image: url(""); 
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center; 
+    height: 100vh; 
+    margin: 0;
+}
+ol{
+  color:rgb(17, 136, 136);
+  text-align:left;
+  font-size:20px
+}
+h1{
+    color: rgb(152, 12, 12);
+    text-align: center;
+    font-style: oblique;
+    font-size: 60px;
+
+}
+h2{
+    color:rgb(20, 121, 139);
+    text-align:center;
+    font-size:35px;
+    
+}
+p{
+    font-size: 30px; 
+    font-family: 'Courier New', Courier, monospace;
+    font-style:italic;
+    color-scheme:inherit;
+    color:rgb(17, 1, 1)
+}
+
+ul{
+    font-size: 25px;
+    color: black;
+}
+ table {
+  border-collapse: collapse;
+  width: 40%;
+  margin: 40px;
+} 
+
+th, td {
+  border: 1px solid black; 
+  padding: 7px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
